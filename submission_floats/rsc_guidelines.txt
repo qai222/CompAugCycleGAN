@@ -1,0 +1,13 @@
+Colour images may be used free of charge both online and in print (we use CMYK colour model)
+
+Figures, Schemes and Charts should be supplied as TIFF files, with a resolution of 600 dpi or greater.
+ You can supply EPS or PDF files instead, but we will need to convert these to TIFF files in the final article
+
+Images should fit within either single column (8.3 cm) or double column (17.1 cm) width, and must be no longer than 23.3 cm.
+They should be prepared to make best use of the space available and must not be larger than a single page
+
+Any text, numerical data or scale bars should be clearly legible and sized appropriately so that any data may be accurately interpreted
+
+Figures including logos, trademarks or brands names (for example Lego® or Rubik’s Cube®) should not be used.
+ You must obtain permission to use any figure or graphic belonging to someone else;
+ see our guidance on using third party material in Royal Society of Chemistry publications
