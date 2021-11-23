@@ -2,6 +2,8 @@
 
 Source code for [Predicting compositional changes of organic-inorganic hybrid materials with Augmented CycleGAN]().
 
+![alt text](https://github.com/qai222/CompAugCycleGAN/blob/main/submission_floats/toc.png)
+
 ## Python modules
 There are three python modules: 
 1. [data](./data/) contains classes used for processing amine-templated oxide data.
