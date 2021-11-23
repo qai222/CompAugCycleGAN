@@ -2,7 +2,7 @@
 
 Source code for [Predicting compositional changes of organic-inorganic hybrid materials with Augmented CycleGAN]().
 
-![alt text](https://github.com/qai222/CompAugCycleGAN/blob/main/submission_floats/toc.png)
+<img src="https://github.com/qai222/CompAugCycleGAN/blob/main/submission_floats/toc.png" width="643" height="302">
 
 ## Python modules
 There are three python modules: 
