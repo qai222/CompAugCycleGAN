@@ -112,10 +112,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-/datasets/
-/dataset/
-/workplace/2021*/
-/workplace/cyc_weight/2021*/
-/workplace/cv3/
-/workplace/cv3cyc0.02/
-/workplace/cyc_weight/
