@@ -41,12 +41,6 @@ def tune(dataset, chk=None, n_calls=50, nepochs=10002):
     """
     hparam tune aug cycgan using gaussian process
     the objective is the mean of "mindist" from "prior" mode of cv runs
-
-    :param dataset:
-    :param chk:
-    :param n_calls:
-    :param nepochs:
-    :return:
     """
 
     def objective(hparams):
