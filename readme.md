@@ -1,4 +1,5 @@
 # CompAugCycleGAN
+Latest release: [![DOI](https://zenodo.org/badge/430975947.svg)](https://zenodo.org/badge/latestdoi/430975947)
 
 Source code for **Predicting compositional changes of organic-inorganic hybrid materials with Augmented CycleGAN**.
 
