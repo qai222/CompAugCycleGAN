@@ -27,6 +27,8 @@ and placed in the [tuned](tuned) folder.
   - alternatively, use `zenodo_get 10.5281/zenodo.5721355` in command line to download
 - [hpc_pbs](scripts/hpc_pbs) folder contains code for hyperparameter tuning and submission script for HPC (PBS).
 - [tutorial.ipynb](scripts/tutorial.ipynb) a notebook showing how to generate dataset and to train the augmented cycleGAN model.
+- [test_emd.py](scripts/test_emd.py) unittest for sinkhorn calculator (testing results against [pyemd](https://github.com/wmayner/pyemd)).
+- [test_layer](scripts/test_layer.py) unittest for layers used in models.
 
 ## Dimensionality predictor
 - Model tuning is done through the script [dimpredictor/tune_models.py](dimpredictor/tune_models.py). Evaluations are done by [dimpredictor/tuned.py](dimpredictor/tuned.py).
